@@ -1,7 +1,7 @@
-import { ReactComponent as StarFull } from "assert/img/Star-Full.svg";
-import { ReactComponent as StarHalf } from "assert/img/Star-half.svg";
-import { ReactComponent as StarEmpty } from "assert/img/Star-empty.svg";
-import './styles.css';
+import { ReactComponent as StarFull } from "assets/img/star-full.svg";
+import { ReactComponent as StarHalf } from "assets/img/star-half.svg";
+import { ReactComponent as StarEmpty } from "assets/img/star-empty.svg";
+import './style.css';
 
 function MovieStars() {
   return (

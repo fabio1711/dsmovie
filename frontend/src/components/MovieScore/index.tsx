@@ -1,6 +1,6 @@
 
 import MovieStars from '../MovieStars';
-import './styles.css';
+import './style.css';
 
 function MovieScore() {
 
