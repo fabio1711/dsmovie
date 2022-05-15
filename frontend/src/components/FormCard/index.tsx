@@ -9,7 +9,7 @@ type Props = {
     movieId: String;
 }
 
-function FormCard({movieId} : Props){
+function FormCard( {movieId} : Props){
 
     const [movie, setMovie] = useState<Movie>();
 
