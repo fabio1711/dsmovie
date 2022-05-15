@@ -7,7 +7,7 @@ import { validateEmail } from 'utils/validate';
 import './styles.css';
 
 type Props = {
-    movieId: String;
+    movieId: string;
 }
 
 function FormCard( {movieId} : Props){
